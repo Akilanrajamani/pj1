@@ -1,0 +1,124 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+b{
+    margin-top:25px ;
+    margin-left: 20px;
+    display: inline-block;
+}
+.top-div{
+    float: right;
+    margin-right:20px ;
+    margin-top: 5px;
+}
+.but{
+    border-color: transparent;
+}
+.but1{
+    padding: 7px;
+    background-color: skyblue;
+    border-radius: 20px;
+    padding-left: 15px;
+    padding-right:15px ;
+}
+.digital{
+    margin-top: 26px;
+    height: 460px;
+    width: 100%;
+    background-image: url(./cat1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    opacity: .5;
+    /* text-align: center; */
+    padding: 50px;
+    color:black;
+    position: absolute;
+}
+.digitald{
+    background:transparent;
+    margin-bottom: 150px;
+    opacity: 1;
+    position: relative;
+    top:110px;
+    text-align: center;
+    padding: 40px;
+    padding-left: 150px;
+    padding-right: 150px;
+   
+}
+.but2{
+    margin: 15px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right:20px ;
+}
+.sub-div{
+    height: 350px;
+    width: 40%;
+    background-color: lightcoral;
+    border-radius: 20px;
+    margin-left: 80px;
+    margin-top: 25px;
+    float: left;
+    padding: 10px;
+    position: relative;
+}
+.i{
+    background-color: black;
+    color:wheat;
+    padding: 5px;
+    border-radius: 20px;
+}
+.but3{
+    background-color:transparent;
+}
+.but4{
+    margin-top: 20px;
+}
+.sub-div1{
+    background-color:white;
+}
+.sub-div2{
+    padding: unset;
+}
+.sub-div2-img{
+    border-radius: 20px;
+}
+.sub-div3-img{
+    border-radius: 20px;   
+}
+.sub-div4-img{
+    border-radius: 30px;    
+    padding: 10px;
+}
+.last-but{
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    float: right;
+    border-radius: 20px;
+    background-color: lightcoral;
+    margin-top: 5px;
+}
+.li{
+    background-color: black;
+    color: lightcoral;
+}
+.sub-div1,.sub-div2{
+    margin-top: 100px;
+}
+.digitald h1{  
+    margin-bottom: 12px;
+}
+.digitald p{  
+    margin-bottom: 7px;
+}
+.but{
+    background-color: transparent;
+}
+.sub-div3,.sub-div4{
+    margin-top: 60px;
+}
